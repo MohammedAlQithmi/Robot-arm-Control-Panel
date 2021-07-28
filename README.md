@@ -20,11 +20,11 @@ with the new values of motors and the value of the switch - 1 for On, 0 for off 
 The motors_values.php page will get the switch value and motors values from the database 
 if the switch value is 1, the values of motors will display on the page as follows:
 
-motor1_value
-motor2_value
-motor3_value
-motor4_value
-motor5_value
+motor1_value\
+motor2_value\
+motor3_value\
+motor4_value\
+motor5_value\
 motor6_value
 
 if the switch value is 0, the page will display "Motors are off"
